@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{303024CB-8DD7-4DB7-AB54-E22D3CA48BC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{6AAD84CD-753B-42DA-B826-4CCF1FD4062A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{6AAD84CD-753B-42DA-B826-4CCF1FD4062A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{545A04FE-EE9B-4B6C-811B-3731E3148D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6AAD84CD-753B-42DA-B826-4CCF1FD4062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AAD84CD-753B-42DA-B826-4CCF1FD4062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AAD84CD-753B-42DA-B826-4CCF1FD4062A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545A04FE-EE9B-4B6C-811B-3731E3148D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545A04FE-EE9B-4B6C-811B-3731E3148D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545A04FE-EE9B-4B6C-811B-3731E3148D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545A04FE-EE9B-4B6C-811B-3731E3148D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
